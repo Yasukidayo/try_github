@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello Github");
+            Console.WriteLine("画面タッチ");
+        
         }
     }
 }
